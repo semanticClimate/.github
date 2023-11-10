@@ -1,2 +1,1 @@
-# .github
-semanticClimate About
+# #semanticClimate About
